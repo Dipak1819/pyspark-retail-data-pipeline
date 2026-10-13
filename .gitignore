@@ -1,0 +1,25 @@
+#python environment
+.venv/
+__pycache__/
+*.pyc
+.env
+
+#local raw and processed data
+data/raw
+data/bronze/
+data/silver/
+data/gold
+
+#Jupyter
+.ipynb_checkpoints/
+
+#Spark temporary files
+spark-warehouse/
+metastore_db/
+derby.log
+
+# macOS
+.DS_Store
+
+# IDE settings
+.vscode/
