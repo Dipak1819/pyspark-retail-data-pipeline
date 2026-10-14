@@ -23,3 +23,5 @@ derby.log
 
 # IDE settings
 .vscode/
+
+main.ipynb
